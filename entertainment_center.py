@@ -32,6 +32,6 @@ alpha = media.Movie("Alpha",
 "https://www.youtube.com/watch?v=uIxnTi4GmCo")
 
 
-movies = [toyStory, avatar, hunter_killer, EqualizerII, avatar, hunter_killer]
+movies = [toyStory, avatar, hunter_killer, EqualizerII, mile22, alpha]
 
 fresh_tomatoes.open_movies_page(movies)

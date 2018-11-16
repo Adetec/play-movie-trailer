@@ -21,7 +21,7 @@ main_page_content = '''
 movie_tile_content = '''
 <div class="col-md-6 col-lg-4 movie-tile panel text-center" data-trailer-youtube-id="{trailer_youtube_id}" data-toggle="modal" data-target="#trailer">
     <div class="movie-info">
-        <img src="{poster_image_url}">
+        <img class="poster" src="{poster_image_url}">
         <div class="story text-info center">{storyline}</div>
     </div>
     <h2>{movie_title}</h2>
